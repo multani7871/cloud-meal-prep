@@ -1,5 +1,9 @@
 # Batch healthy meals made and delivered from cloud kitchens:
 
+I would like a bag full of meals delivered to my door every 2-3 days. Each meal should be individually packaged with ingredient and nutritional info.
+
+The cost per meal should be <$10. Macros should be customizable within a range. Some suggested defaults (paleo, keto, etc.) should also be provided.
+
 https://twitter.com/HarveyMultani/status/1279663854356762625
 
 https://twitter.com/HarveyMultani/status/1213871304832684032
